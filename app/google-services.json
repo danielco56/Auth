@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "741573013309",
+    "firebase_url": "https://fir-d3a07.firebaseio.com",
+    "project_id": "fir-d3a07",
+    "storage_bucket": "fir-d3a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741573013309:android:1885fad23cf7c956",
+        "android_client_info": {
+          "package_name": "com.example.daniel.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741573013309-rnr0t62ljjlahbt3p7v96rneibem2r7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daniel.auth",
+            "certificate_hash": "4e2fd938b3976f5213903b710f1924ec4a1a7aad"
+          }
+        },
+        {
+          "client_id": "741573013309-5rsargls96qupi6b9i2bjr1qgqlv08bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1j_kw27YbUozhRI8Xrhn8C15ppQttnE"
+        },
+        {
+          "current_key": "AIzaSyBCEJueO72a6WUp3ZLlaud61aPqV6WftC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741573013309-5rsargls96qupi6b9i2bjr1qgqlv08bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
